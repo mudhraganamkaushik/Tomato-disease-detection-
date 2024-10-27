@@ -1,0 +1,1 @@
+This project is based on deep learning & machine learning algo .This is build to detect diseases in tomato plant when its uploded in local website build by flask application we have used cnn algo to detect diseases in tomato and give its preventions tips .we have taken dataset from kaggle named Plant-Village.   
